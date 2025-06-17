@@ -1,0 +1,21 @@
+feature,type,num_countries,template
+Internet_Speed,numeric,1,"In ${country}, the internet speed is ${val} Mbps."
+Internet_Speed,numeric,2,${country1} offers faster internet at ${val1} Mbps than ${country2} (${val2} Mbps).
+Internet_Speed,numeric,3+,"${top_country} offers the fastest internet at ${top_val} Mbps, while ${bottom_country} has only ${bottom_val} Mbps."
+Hotel_Rate,numeric,1,"In ${country}, the average hotel rating is ${val} stars."
+Hotel_Rate,numeric,2,"${country1} offers higher hotel quality at ${val1} stars, compared to ${country2} with ${val2} stars."
+Hotel_Rate,numeric,3+,Hotel quality is highest in ${top_country} at average ${top_val} stars and lowest in ${bottom_country} with average ${bottom_val} stars.
+Temperature,numeric,1,"In ${country}, the average temperature is ${val}°C."
+Temperature,numeric,2,"${country1} is warmer at ${val1}°C, while ${country2} has a lower average of ${val2}°C."
+Temperature,numeric,3+,"${top_country} is the warmest average temperature with ${top_val}°C, while ${bottom_country} is the coldest at ${bottom_val}°C."
+Precipitation,numeric,1,"In ${country}, the average precipitation is ${val} mm."
+Precipitation,numeric,2,"${country1} is wetter with ${val1} mm, while ${country2} is drier with ${val2} mm."
+Precipitation,numeric,3+,"${top_country} has the most precipitation with an average of ${top_val} mm, while ${bottom_country} has the least at ${bottom_val} mm."
+Cluster_Cond,categorical,1,"${country} belongs to the ""${cluster}"" cluster for Living Conditions."
+Cluster_Cond,categorical,2_same,"Both ${country1} and ${country2} belong to the same Living Condition cluster: ""${cluster}""."
+Cluster_Cond,categorical,2_diff,"${country1} belongs to cluster ""${cluster1}"" while ${country2} belongs to cluster ""${cluster2}""."
+Cluster_Cond,categorical,3+,The countries belong to different Living Condition clusters: ${country_group_summary}.
+Cluster_Cost,categorical,1,"${country} belongs to the ""${cluster}"" cluster for Living Cost."
+Cluster_Cost,categorical,2_same,"Both ${country1} and ${country2} belong to the same Living Cost cluster: ""${cluster}""."
+Cluster_Cost,categorical,2_diff,"${country1} belongs to cluster ""${cluster1}"" while ${country2} belongs to cluster ""${cluster2}""."
+Cluster_Cost,categorical,3+,The countries belong to different Living Cost clusters: ${country_group_summary}.
