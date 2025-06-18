@@ -1,6 +1,6 @@
 # Digital Nomad Destinations Visualisation
 
-** An interactive dashboard for comparing short-term living conditions across countries, designed for early-stage digital nomads. **
+**An interactive dashboard for comparing short-term living conditions across countries, designed for early-stage digital nomads.**
 
 ---
 
