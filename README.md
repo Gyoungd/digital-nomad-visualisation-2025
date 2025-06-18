@@ -35,8 +35,8 @@ This project visualises and compares global destinations for digital nomads base
 ## How to Use
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/digital-nomad-visualisation.git
-   cd digital-nomad-visualisation
+    git clone https://github.com/gyoungdan/digital-nomad-visualisation-2025.git
+    cd digital-nomad-visualisation-2025
    ```
 
 2. **Open in RStudio of VS Code.**
@@ -65,7 +65,13 @@ This project visualises and compares global destinations for digital nomads base
 
 ### 1. Overview Dashboard
 
-<img src="screenshots/overview.jpg" width = "85%">
+<img src="screenshots/overview.jpg" width = "65%" alt="Overview Dashboard (Top Section)">
+
+<details>
+<summary>🔽 Show Full Dashboard Screenshot</summary>
+
+<img src="screenshots/full-dashboard.jpg" width = "100%" alt="Full Dashboard Screenshot">
+</details>
 
 This screenshot shows the main dashboard with the choropleth map, cluster exploration, and summary table.
 
@@ -80,14 +86,14 @@ This choropleth map displays the Living Condition Index (LCI_Cond) by country, a
 
 ### 3. Bubble Plot & Radar Chart
 
-<img src="screenshots/bubble-plot.jpg" width = "85%">
+<img src="screenshots/bubble-radar.jpg" width = "85%">
 
 Compare countries by features using an interactive bubble plot.
 Click a bubble to display the country's profile on the radar chart (right).
 
 ### 4. Country Summary Table
 
-<img src="screenshots/summary-table.jpg" width = "85%">
+<img src="screenshots/table-summary.jpg" width = "85%">
 
 Directly compare up to 3 countries across all features and see an auto-generated summary of the key differences.
 
