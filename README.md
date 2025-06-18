@@ -77,7 +77,7 @@ This screenshot shows the main dashboard with the choropleth map, cluster explor
 
 ### 2. Global Living Conditions Map
 
-<img src="screenshots/region-select.jpg" width = "85%">
+<img src="screenshots/region-select.jpg" width = "100%">
 
 This choropleth map displays the Living Condition Index (LCI_Cond) by country, allowing users to visually assess global living conditions.
 
@@ -86,14 +86,14 @@ This choropleth map displays the Living Condition Index (LCI_Cond) by country, a
 
 ### 3. Bubble Plot & Radar Chart
 
-<img src="screenshots/bubble-radar.jpg" width = "85%">
+<img src="screenshots/bubble-radar.jpg" width = "100%">
 
 Compare countries by features using an interactive bubble plot.
 Click a bubble to display the country's profile on the radar chart (right).
 
 ### 4. Country Summary Table
 
-<img src="screenshots/table-summary.jpg" width = "85%">
+<img src="screenshots/table-summary.jpg" width = "100%">
 
 Directly compare up to 3 countries across all features and see an auto-generated summary of the key differences.
 
