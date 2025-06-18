@@ -20,8 +20,15 @@ This project visualises and compares global destinations for digital nomads base
 - **Bubble Plot & Radar Chart:** Compare countries across multiple features interactively.
 - **Summary Table:** Numeric comparison with filtering and selection.
 - **Full Interactivity:** Click, hover, select features, and get instant visual & numeric feedback.
+
+---
+## Key Metrics
+
 - **Living Condition Index (LCI_Cond):** A composite index combining internet speed, hotel quality, and hotel quantity.
 - **Living Cost Index (LCI_Cost):** A composite index combining cost of living + Rent (0.5), grocery cost (0.3), and restaurant price (0.2).
+- **Internet Speed:** Average download speed in Mbps.
+- **Hotel Rate:** Average hotel rate between 1 to 5.
+- **Climate Data:** Average temperature and precipitation for each country.
 
 ---
 
