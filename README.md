@@ -65,12 +65,12 @@ This project visualises and compares global destinations for digital nomads base
 
 ### 1. Overview Dashboard
 
-<img src="screenshots/overview.jpg" width = "65%" alt="Overview Dashboard (Top Section)">
+<img src="screenshots/overview.jpg" width = "85%" height ="30%" alt="Overview Dashboard (Top Section)">
 
 <details>
-<summary>🔽 Show Full Dashboard Screenshot</summary>
+<summary>🔎 Show Full Dashboard Screenshot</summary>
 
-<img src="screenshots/full-dashboard.jpg" width = "100%" alt="Full Dashboard Screenshot">
+<img src="screenshots/overview.jpg" width = "100%" alt="Full Dashboard Screenshot">
 </details>
 
 This screenshot shows the main dashboard with the choropleth map, cluster exploration, and summary table.
@@ -99,7 +99,7 @@ Directly compare up to 3 countries across all features and see an auto-generated
 
 #### 5. Sidebar Navigation
 
-<img src="screenshots/navigator.jpg" width = "85%">
+<img src="screenshots/navigator.jpg" width = "50%" height = "30%">
 
 The navigator allows users to select stage to move between different sections of the dashboard, including the choropleth map, bubble plot, radar chart, and summary table.
 
