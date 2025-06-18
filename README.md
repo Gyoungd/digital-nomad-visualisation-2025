@@ -65,7 +65,7 @@ This project visualises and compares global destinations for digital nomads base
 
 ### 1. Overview Dashboard
 
-<img src="screenshots/overview-top.jpg" width = "100%" alt="Overview Dashboard (Top Section)">
+<img src="screenshots/overview-top.png" width = "100%" alt="Overview Dashboard (Top Section)">
 
 <details>
 <summary>🔎 Show Full Dashboard Screenshot</summary>
