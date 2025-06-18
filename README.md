@@ -35,7 +35,7 @@ This project visualises and compares global destinations for digital nomads base
 ## How to Use
 1. **Clone this repository:**
    ```bash
-    git clone https://github.com/gyoungdan/digital-nomad-visualisation-2025.git
+    git clone https://github.com/Gyoungd/digital-nomad-visualisation-2025.git
     cd digital-nomad-visualisation-2025
    ```
 
@@ -65,7 +65,7 @@ This project visualises and compares global destinations for digital nomads base
 
 ### 1. Overview Dashboard
 
-<img src="screenshots/overview.jpg" width = "85%" height ="30%" alt="Overview Dashboard (Top Section)">
+<img src="screenshots/overview-top.jpg" width = "100%" alt="Overview Dashboard (Top Section)">
 
 <details>
 <summary>🔎 Show Full Dashboard Screenshot</summary>
@@ -99,7 +99,7 @@ Directly compare up to 3 countries across all features and see an auto-generated
 
 #### 5. Sidebar Navigation
 
-<img src="screenshots/navigator.jpg" width = "50%" height = "30%">
+<img src="screenshots/navigator.jpg" width = "30%" height = "10%">
 
 The navigator allows users to select stage to move between different sections of the dashboard, including the choropleth map, bubble plot, radar chart, and summary table.
 
