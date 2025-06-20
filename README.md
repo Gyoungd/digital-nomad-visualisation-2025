@@ -2,6 +2,8 @@
 
 **An interactive dashboard for comparing short-term living conditions across countries, designed for early-stage digital nomads.**
 
+🔗 [Dashboard Link](https://event-venue-in-vic.shinyapps.io/digital-nomad-destination-2025/)
+
 ---
 
 ## Project Overview
